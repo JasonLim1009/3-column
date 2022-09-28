@@ -1,3 +1,3 @@
 # 3-column
 
-![This is an image]![image](https://user-images.githubusercontent.com/107684179/185781273-2ca5d072-989d-487d-9946-8d3f5d827179.png)
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/192801467-fba7edcd-f7de-461b-86d4-a76750d599e7.png)
