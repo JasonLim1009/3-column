@@ -2,6 +2,7 @@ body{
     margin: 30px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2018/02/Roadster-via-Tesla.jpg");
 }
 
 h1{
@@ -57,7 +58,7 @@ a{
 }
 
 .footer .copyright{
-    color: black;
+    color: #fff;
     font-size: 0.75rem;
     padding: 20px 0;
 }
